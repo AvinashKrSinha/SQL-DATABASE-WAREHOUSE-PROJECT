@@ -1,4 +1,4 @@
-# SQL DATA WAREHOUSE and ANALYTICS project
+# SQL DATA WAREHOUSE project
 This projects demonstrates a comprehensive data warehousing and analytics solution, from building aa data warehouse to generating actionable insights. Designed as a portfolio project which highlights industry best practices in data engineering and analytics.
 ---
 ## 🏗️ Data Architecture
