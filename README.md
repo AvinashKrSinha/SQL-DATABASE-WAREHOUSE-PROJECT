@@ -11,6 +11,12 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
+
+## 📄 Project Documentation
+
+For detailed project documentation, visit my [Notion Workspace](https://www.notion.so/DATA-WAREHOUSE-PROJECT-2453a38065a180969d64db53a1a88b27?source=copy_link).
+
+---
 ## 📖 Project Overview
 
 This project involves:
